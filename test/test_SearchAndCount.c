@@ -5,7 +5,7 @@
 void setUp(void){}
 void tearDown(void){}
 
-void test_SearchAndCount_given_2_same_words_the_expect_readLines_find_2_the(void)
+void test_searchAndCount_given_2_same_words_the_expect_readLines_find_2_the(void)
 {
   //In the world of today, we have a super computer which can compute complex calculations. the cost of machines is high. comput science.
   int count;
@@ -16,7 +16,7 @@ void test_SearchAndCount_given_2_same_words_the_expect_readLines_find_2_the(void
   TEST_ASSERT_EQUAL(2, count);
 }
 
-void test_SearchAndCount_given_2_same_words_of_expect_readLines_find_2_of(void)
+void test_searchAndCount_given_2_same_words_of_expect_readLines_find_2_of(void)
 {
   //In the world of today, we have a super computer which can compute complex calculations. the cost of machines is high. comput science.
   int count;
@@ -27,7 +27,7 @@ void test_SearchAndCount_given_2_same_words_of_expect_readLines_find_2_of(void)
   TEST_ASSERT_EQUAL(2, count);
 }
 
-void test_SearchAndCount_given_2_same_words_compute_expect_readLines_find_2_compute(void)
+void test_searchAndCount_given_2_same_words_compute_expect_readLines_find_2_compute(void)
 {
   //In the world of today, we have a super computer which can compute complex calculations. the cost of machines is high. comput science.
   int count;
@@ -38,7 +38,7 @@ void test_SearchAndCount_given_2_same_words_compute_expect_readLines_find_2_comp
   TEST_ASSERT_EQUAL(2, count);
 }
 
-void test_SearchAndCount_given_3_same_words_comput_expect_readLines_find_3_comput(void)
+void test_searchAndCount_given_3_same_words_comput_expect_readLines_find_3_comput(void)
 {
   //In the world of today, we have a super computer which can compute complex calculations. the cost of machines is high. comput science.
   int count;
