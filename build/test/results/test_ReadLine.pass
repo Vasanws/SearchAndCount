@@ -1,0 +1,30 @@
+---
+:source:
+  :path: test
+  :file: test_ReadLine.c
+:successes:
+- :test: test_char_readLines_line1_of_text
+  :line: 17
+  :message: ''
+  :unity_test_time: 0
+- :test: test_char_readLines_line2_of_text
+  :line: 25
+  :message: ''
+  :unity_test_time: 0
+- :test: test_char_readLines_line3_of_text
+  :line: 33
+  :message: ''
+  :unity_test_time: 0
+- :test: test_char_readLines_line4_of_text
+  :line: 41
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 4
+  :passed: 4
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.017629900001338683
